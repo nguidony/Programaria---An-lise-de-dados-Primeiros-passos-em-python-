@@ -1,5 +1,3 @@
-# Programaria---Analise-de-dados-Primeiros-passos-em-python-
-
 # ✨ Projeto: Primeiros Passos com Análise de Dados em Python ✨
 
 Este projeto foi desenvolvido como parte do curso **"Análise de Dados: Primeiros Passos com Python"** da [PrograMaria](https://www.programaria.org/cursos-programaria/analise-dados-primeiros-passos-python/). Durante o curso, explorei ferramentas essenciais de Python, bibliotecas como Pandas, NumPy, Matplotlib, Seaborn, e técnicas para análise e visualização de dados.
